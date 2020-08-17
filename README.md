@@ -26,7 +26,7 @@ As you begin interviewing for jobs, you will often be expected to be able to imp
 - [ ] Test your implementation by running `test_iterative.py`
 - [ ] Implement all the methods in the [searching.py](src/searching/searching.py) file in the [searching](src/searching) directory.
 - [ ] Test your implementation of the searching methods by running `test_searching.py`.
-
+.
 ## Stretch goals
 
 - [ ] Implement the `counting_sort` [algorithm](https://en.wikipedia.org/wiki/Counting_sort) in the [iterative_sorting](src/iterative_sorting) directory.
